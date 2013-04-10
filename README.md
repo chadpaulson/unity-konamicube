@@ -19,7 +19,7 @@ An easter egg is triggered with the Konami code (substitute B for X and A for Ci
 
 Input Mapping
 --------------
-The input manager is mapped to accomidate a Playstation DualShock 3 controller on a Mac.  Be sure to substitute the [appropriate button mapping](http://forum.unity3d.com/threads/89288-PS3-Button-Map) when running the project in Windows.  The project can also be re-mapped for use with an [Xbox 360 controller](http://wiki.unity3d.com/index.php?title=Xbox360Controller), among others.
+The input manager is mapped to accommodate a Playstation DualShock 3 controller on a Mac.  Be sure to substitute the [appropriate button mapping](http://forum.unity3d.com/threads/89288-PS3-Button-Map) when running the project in Windows.  The project can also be re-mapped for use with an [Xbox 360 controller](http://wiki.unity3d.com/index.php?title=Xbox360Controller), among others.
 
 Video Demo
 -----------
